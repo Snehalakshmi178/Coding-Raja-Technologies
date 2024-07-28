@@ -10,6 +10,8 @@ Steps:
 5. Model Evaluation: Split the dataset into training and testing sets to evaluate the recommendation system's accuracy.
 6. Top-N Recommendations: Generate top-N movie recommendations for a specific user.
 7. Interactive Interface: Create a simple web interface to allow users to input their preferences and receive movie recommendations.
+
+
 Tech Stack:
 
 1. Python: Programming language used for the implementation.
